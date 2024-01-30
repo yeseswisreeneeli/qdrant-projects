@@ -1,0 +1,145 @@
+{
+    "makeupProducts": [
+      {
+        "type": "lipstick",
+        "name": "Velvet Crush Lipstick",
+        "description": "A rich and creamy lipstick with a velvety finish.",
+        "cost": "$15.99",
+        "color": "Ruby Red"
+      },
+      {
+        "type": "eyeliner",
+        "name": "Precision Glide Eyeliner",
+        "description": "Long-lasting and smudge-proof eyeliner for a defined look.",
+        "cost": "$12.50",
+        "color": "Jet Black"
+      },
+      {
+        "type": "mascara",
+        "name": "Lash Amplify Mascara",
+        "description": "Volumizing mascara for bold and dramatic lashes.",
+        "cost": "$18.75",
+        "color": "Midnight Brown"
+      },
+      {
+        "type": "compact",
+        "name": "Radiant Glow Compact",
+        "description": "Pressed powder compact for a natural and radiant finish.",
+        "cost": "$21.99",
+        "color": "Golden Beige"
+      },
+      {
+        "type": "lipstick",
+        "name": "Satin Dream Lipstick",
+        "description": "A satin-finish lipstick that glides on smoothly for a luxurious look.",
+        "cost": "$14.50",
+        "color": "Blushing Rose"
+      },
+      {
+        "type": "eyeliner",
+        "name": "Graphic Precision Eyeliner",
+        "description": "Bold and intense eyeliner for creating graphic and edgy eye looks.",
+        "cost": "$13.99",
+        "color": "Electric Blue"
+      },
+      {
+        "type": "mascara",
+        "name": "Volume Plus Mascara",
+        "description": "Mascara with a volumizing formula to enhance lash thickness.",
+        "cost": "$17.25",
+        "color": "Carbon Black"
+      },
+      {
+        "type": "compact",
+        "name": "Matte Perfection Compact",
+        "description": "Matte-finish compact for a flawless and shine-free complexion.",
+        "cost": "$19.99",
+        "color": "Natural Ivory"
+      },
+      {
+        "type": "lipstick",
+        "name": "Velvet Touch Lipstick",
+        "description": "Velvety smooth lipstick for a touch of luxury on your lips.",
+        "cost": "$16.50",
+        "color": "Crimson Passion"
+      },
+      {
+        "type": "eyeliner",
+        "name": "UltraFine Precision Eyeliner",
+        "description": "Ultra-fine tip eyeliner for precise and intricate eye detailing.",
+        "cost": "$15.99",
+        "color": "Graphite Grey"
+      },
+      {
+        "type": "mascara",
+        "name": "Curl Define Mascara",
+        "description": "Mascara that defines and curls lashes for an eye-opening effect.",
+        "cost": "$18.50",
+        "color": "Deep Brown"
+      },
+      {
+        "type": "compact",
+        "name": "Luminous Finish Compact",
+        "description": "Compact with a luminous finish for a radiant and glowing complexion.",
+        "cost": "$22.50",
+        "color": "Sun-Kissed Bronze"
+      },
+      {
+        "type": "lipstick",
+        "name": "Creamy Coral Lipstick",
+        "description": "Creamy lipstick with a coral hue for a fresh and vibrant look.",
+        "cost": "$13.75",
+        "color": "Coral Crush"
+      },
+      {
+        "type": "eyeliner",
+        "name": "Smoky Eyes Pencil",
+        "description": "Pencil eyeliner for creating smoky and sultry eye makeup.",
+        "cost": "$14.99",
+        "color": "Charcoal Black"
+      },
+      {
+        "type": "lipstick",
+        "name": "Nude Elegance Lipstick",
+        "description": "A nude lipstick that adds a touch of elegance to your lips.",
+        "cost": "$14.99",
+        "color": "Soft Beige"
+      },
+      {
+        "type": "eyeliner",
+        "name": "Liquid Precision Liner",
+        "description": "Liquid eyeliner for sharp and precise lines that last all day.",
+        "cost": "$16.50",
+        "color": "Deep Plum"
+      },
+      {
+        "type": "mascara",
+        "name": "Curling Amplifier Mascara",
+        "description": "Mascara that lifts and amplifies lashes for a curled effect.",
+        "cost": "$19.25",
+        "color": "Rich Burgundy"
+      },
+      {
+        "type": "compact",
+        "name": "Translucent Setting Powder",
+        "description": "Translucent powder for setting makeup and reducing shine.",
+        "cost": "$23.99",
+        "color": "Translucent"
+      },
+      {
+        "type": "lipstick",
+        "name": "Velvet Plum Lipstick",
+        "description": "A velvety plum lipstick for a bold and sophisticated look.",
+        "cost": "$15.75",
+        "color": "Plum Passion"
+      },
+      {
+        "type": "eyeliner",
+        "name": "Metallic Glam Liner",
+        "description": "Metallic eyeliner for a glamorous and shimmery eye makeup.",
+        "cost": "$17.99",
+        "color": "Golden Bronze"
+      }
+    ]
+  }
+  
